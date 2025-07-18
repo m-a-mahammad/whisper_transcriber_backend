@@ -69,7 +69,7 @@ npm run create-notebook
 
 ---
 ### 🎯 خطوات العملية:
-<small>
+<small dir="rtl">
 
 - ✅ سيطلب منك إدخال رابط YouTube
 - 📝 يتم إنشاء ملف whisper_transcriber.ipynb
@@ -132,7 +132,7 @@ whisper-transcriber-backend/<br>
 ---
 
 ### 📌 ملاحظات
-<small>
+<small dir="rtl">
 
 - تأكد أن مجلدات `Drive (INPUT_FOLDER_ID, OUTPUT_FOLDER_ID)` تسمح بالوصول من حساب الخدمة.
 

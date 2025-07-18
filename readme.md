@@ -69,7 +69,6 @@ npm run create-notebook
 
 ---
 ### 🎯 خطوات العملية:
-<small dir="ltr">
 
 - ✅ سيطلب منك إدخال رابط YouTube
 - 📝 يتم إنشاء ملف whisper_transcriber.ipynb
@@ -78,7 +77,6 @@ npm run create-notebook
 
 - 🔗 يُطبع رابط Colab و Drive في الطرفية
 
-</small>
 
 2️⃣ تحميل ملفات .srt من Drive
 bash
@@ -132,7 +130,6 @@ whisper-transcriber-backend/<br>
 ---
 
 ### 📌 ملاحظات
-<small dir="ltr">
 
 - تأكد أن مجلدات `Drive (INPUT_FOLDER_ID, OUTPUT_FOLDER_ID)` تسمح بالوصول من حساب الخدمة.
 
@@ -140,7 +137,6 @@ whisper-transcriber-backend/<br>
 
 - `yt-dlp` يقوم بتنزيل الملفات الصوتية فقط لتسهيل وتسريع عملية التفريغ.
 
-</small>
 
 ---
 ### ⚠️ ملاحظة مهمة  

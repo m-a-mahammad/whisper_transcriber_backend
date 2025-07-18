@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",                          // مستوى JavaScript الناتج
+    "module": "ESNext",                          // أو "CommonJS" حسب بيئة التشغيل
+    "moduleResolution": "node",
+    "outDir": "./dist",                          // مكان ملفات JS الناتجة
+    "rootDir": "./src",                          // مكان ملفات TS المصدرية
+    "esModuleInterop": true,                     // دعم استيراد من CommonJS
+    "resolveJsonModule": true,                   // استيراد ملفات JSON
+    "forceConsistentCasingInFileNames": true,    // منع مشاكل الحروف الكبيرة/الصغيرة
+    "strict": true,                              // تفعيل فحص صارم للأنواع
+    "skipLibCheck": true                         // تجاهل فحص ملفات المكتبات
+  },
+  "include": ["src"],                            // الملفات اللي يتم ترجمتها
+  "exclude": ["node_modules", "dist"]            // استثناء مجلدات من الترجمة
+}

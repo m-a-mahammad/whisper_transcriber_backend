@@ -1,0 +1,7 @@
+.env
+cookies.txt
+/src/apiKeys.json
+projectID_serviceAccount.txt
+node_modules/
+dist/
+whisper_transcriber.ipynb

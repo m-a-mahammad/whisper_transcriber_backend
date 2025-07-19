@@ -3,7 +3,7 @@
 # 📘 whisper-transcriber-backend
 </div>
 <div dir="rtl">
-نظام آلي لتحويل فيديوهات YouTube إلى ملفات تفريغ بصيغة </code>srt.<code> باستخدام Whisper، Google Colab، Google Drive API.</br>
+نظام آلي لتحويل فيديوهات YouTube إلى ملفات تفريغ بصيغة <code>srt.</code> باستخدام Whisper، Google Colab، Google Drive API.</br>
 يتم إنشاء Notebook تلقائيًا، رفعه على Drive، ثم تحميل ملفات التفريغ إلى جهازك.
 
 ---

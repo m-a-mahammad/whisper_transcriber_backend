@@ -20,8 +20,10 @@
 
 ## 📦 المتطلبات
 
+<div dir="rtl">
 - Node.js 20+
 - حساب Google Drive بخدمة Drive API مفعّلة
+</div>
 
 ### 🔐 ملف `apikeys.json`
 <div dir="ltr">
